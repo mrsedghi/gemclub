@@ -1,6 +1,6 @@
 {
-  "appId": "ir.mrsedghi.bariko",
-  "appName": "bariko",
+  "appId": "ir.mrsedghi.gemclub",
+  "appName": "gemclub",
   "webDir": "dist",
   "server": {
     "androidScheme": "https"

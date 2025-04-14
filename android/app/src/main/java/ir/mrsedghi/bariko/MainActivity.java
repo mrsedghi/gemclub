@@ -1,4 +1,4 @@
-package ir.mrsedghi.bariko;
+package ir.mrsedghi.gemclub;
 
 import com.getcapacitor.BridgeActivity;
 

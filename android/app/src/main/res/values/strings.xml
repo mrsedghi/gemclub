@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">bariko</string>
-    <string name="title_activity_main">bariko</string>
-    <string name="package_name">ir.mrsedghi.bariko</string>
-    <string name="custom_url_scheme">ir.mrsedghi.bariko</string>
+    <string name="app_name">gemclub</string>
+    <string name="title_activity_main">gemclub</string>
+    <string name="package_name">ir.mrsedghi.gemclub</string>
+    <string name="custom_url_scheme">ir.mrsedghi.gemclub</string>
 </resources>

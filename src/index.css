@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Peyda-Reg;
+  src: url("./assets/fonts/Peyda-Regular.ttf");
+}
+@font-face {
+  font-family: Peyda-Thin;
+  src: url("./assets/fonts/Peyda-Thin.ttf");
+}
+
+@font-face {
+  font-family: Peyda-Black;
+  src: url("./assets/fonts/Peyda-Black.ttf");
+}
+
+@font-face {
+  font-family: Peyda-Bold;
+  src: url("./assets/fonts/Peyda-Bold.ttf");
+}
+
+@font-face {
+  font-family: Peyda-ExBold;
+  src: url("./assets/fonts/Peyda-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: Peyda-Med;
+  src: url("./assets/fonts/Peyda-Medium.ttf");
+}
+
+@font-face {
+  font-family: Peyda-semBold;
+  src: url("./assets/fonts/Peyda-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: Peyda-Light;
+  src: url("./assets/fonts/peyda-light.ttf");
+}
+
+input:focus {
+  outline: none !important;
+  ring: none !important;
+  box-shadow: none !important;
+}

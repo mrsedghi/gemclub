@@ -1,0 +1,7 @@
+{
+  "name": "bariko",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

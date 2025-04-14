@@ -1,0 +1,8 @@
+{
+  "appId": "ir.mrsedghi.bariko",
+  "appName": "bariko",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,5 +1,12 @@
 # GemClub Frontend
 
+<div align="center">
+<img src="./public/screenshots/screenshot1.png" style="width:200px; " />
+   
+<img src="./public/screenshots/screenshot2.png" style="width:200px;" />
+
+<img src="./public/screenshots/screenshot3.png" style="width:200px;" />
+</div>
 This project is a modern frontend application built with **React** and **Vite**, styled using **Tailwind CSS** and configured with **ESLint** for code quality. It provides a strong starting point for building scalable and fast web applications.
 
 ## Features
